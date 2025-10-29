@@ -5,7 +5,7 @@
  - <b>osTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/zanegoude/osticket-installation)
  - <b>Router and Firewall Configuration</b>
-   - [Port Forwarding: Setup and Configuration]
+   - [Port Forwarding: Setup and Configuration](https://github.com/zanegoude/port-forwarding-setup)
  - <b>Azure Cloud Infrastructure</b>
    - [Azure: VM Deployment and Configuration]
  
