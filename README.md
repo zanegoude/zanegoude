@@ -3,7 +3,9 @@
  <h2>👨‍💻 Information Technology Projects:</h2>
  
  - <b>osTicket (Help Desk Ticketing System)</b>
-   - [osTicket: Prerequisites and Installation](https://github.com/zanegoude/osticket-prereqs)
+   - [osTicket: Prerequisites and Installation](https://github.com/zanegoude/osticket-installation)
+ - <b>Router and Firewall Configuration
+   - [Port Forwading Setup]
  
  <h2>🤳Connect with me:</h2>
  
