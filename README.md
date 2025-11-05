@@ -7,7 +7,7 @@
  - <b>Router and Firewall Configuration</b>
    - [Port Forwarding: Setup and Configuration](https://github.com/zanegoude/port-forwarding-setup)
  - <b>Azure Cloud Infrastructure</b>
-   - [Azure: VM Deployment and Configuration]
+   - [Azure: VM Deployment and Configuration](https://github.com/zanegoude/VM-Setup)
  
  <h2>🤳Connect with me:</h2>
  
